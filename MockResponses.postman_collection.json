@@ -1,0 +1,31 @@
+{
+	"info": {
+		"_postman_id": "d0afe78f-39f3-4129-8d47-277b72a71f4e",
+		"name": "MockResponses",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Obtener todos los libros",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://1a6dd3e5-91a2-4f35-a39e-4d223b5a5c66.mock.pstmn.io/api/books",
+					"protocol": "https",
+					"host": [
+						"1a6dd3e5-91a2-4f35-a39e-4d223b5a5c66",
+						"mock",
+						"pstmn",
+						"io"
+					],
+					"path": [
+						"api",
+						"books"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
